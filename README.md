@@ -17,4 +17,4 @@ Un projet complet de migration d'une application financière de gestion de caiss
 - Modélisation optimisée de la base de données relationnelle.
 
 ---
-📫 **Me contacter :** [LinkedIn](https://www.linkedin.com/in/ernest-patrick-sewade/) | patricksewade@gmail.com
+📫 **Me contacter :** [LinkedIn](https://www.linkedin.com/in/ernest-patrick-sewade/)
