@@ -1,12 +1,12 @@
 # 👨‍💻 Ernest Patrick SEWADE
-**Développeur Web Backend Senior | Tech Lead PHP & Architecte Symfony**
+**Développeur Web Backend PHP / Symfony & Architecte Digital**
 
 Fort de **9 ans d'expérience** dans l'écosystème PHP, j'interviens sur la conception d'architectures robustes (ERP, APIs), la refonte de systèmes legacy et l'industrialisation des processus de développement. Je mets un point d'honneur sur la qualité logicielle (Clean Code, SOLID, Tests) et le pragmatisme technique.
 
 ## 🛠 Stack Technique & Ingénierie
 
 <div align="left">
-  <img src="https://img.shields.io/badge/PHP_8.5-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8.5" />
+  <img src="https://img.shields.io/badge/PHP_8.5-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8+" />
   <img src="https://img.shields.io/badge/Symfony_7+-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
   <img src="https://img.shields.io/badge/API_Platform-38A8E8?style=for-the-badge&logo=v&logoColor=white" alt="API Platform" />
   <br>
@@ -25,7 +25,7 @@ Fort de **9 ans d'expérience** dans l'écosystème PHP, j'interviens sur la con
 ### 🌐 [Portfolio & Back-Office] Custom MVC vers Symfony 7.4
 - Refonte complète via l'intégration du conteneur d'injection de dépendances et de Doctrine ORM.
 - Sécurisation stricte de l'application (Symfony Security, Auth, CSRF, XSS) avec typage fort.
-- *Stack : PHP 8.2+, Symfony 7.4, Twig, Tailwind CSS.*
+- *Stack : PHP 8.3+, Symfony 7.4, Twig, Tailwind CSS.*
 
 ### 🏪 [KLG-Caisse] Migration Legacy & Refonte Architecturale
 Modernisation d'une application financière critique (Logiciel de caisse - POS).
