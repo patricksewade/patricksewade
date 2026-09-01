@@ -1,20 +1,45 @@
-# Salut, moi c'est Ernest Patrick SEWADE 👋
+# 👨‍💻 Ernest Patrick SEWADE
+**Développeur Web Backend Senior | Tech Lead PHP & Architecte Symfony**
 
-Je suis un **Développeur Web PHP/Symfony** passionné par la conception d'architectures robustes, la modélisation de données et le Clean Code. Fort de 9 ans d'expérience globale dans la Tech et récemment diplômé d'un **Master 2 en Ingénierie Web** en France, je focalise mon expertise sur la modernisation d'applications complexes.
+Fort de **9 ans d'expérience** dans l'écosystème PHP, j'interviens sur la conception d'architectures robustes (ERP, APIs), la refonte de systèmes legacy et l'industrialisation des processus de développement. Je mets un point d'honneur sur la qualité logicielle (Clean Code, SOLID, Tests) et le pragmatisme technique.
 
-## 🚀 Stack Technique & Outils
-- **Backend :** PHP 8.5 (POO avancée), Architecture MVC, Architecture de Services
-- **Frameworks :** Symfony 7+, Laravel (en cours de spécialisation)
-- **Data :** MySQL, Doctrine ORM, Requêtes SQL optimisées, Migrations
-- **Frontend :** HTML5, CSS3, Tailwind CSS, JavaScript, jQuery, APIs RESTful / JSON
-- **Outils :** Git, GitHub, VS Code, Markdown
+## 🛠 Stack Technique & Ingénierie
 
-## 📌 Projet Phare en cours
-### 🏪 KLG-Caisse
-Un projet complet de migration d'une application financière de gestion de caisse historique. Passer du PHP procédural à une architecture moderne orientée objet (POO) et un pattern MVC propre.
-- Refactoring complet du cœur applicatif.
-- Isolation stricte des logiques métiers liées aux flux financiers.
-- Modélisation optimisée de la base de données relationnelle.
+<div align="left">
+  <img src="https://img.shields.io/badge/PHP_8.5-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8.5" />
+  <img src="https://img.shields.io/badge/Symfony_7+-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
+  <img src="https://img.shields.io/badge/API_Platform-38A8E8?style=for-the-badge&logo=v&logoColor=white" alt="API Platform" />
+  <br>
+  <img src="https://img.shields.io/badge/Doctrine_ORM-F26522?style=for-the-badge&logo=doctrine&logoColor=white" alt="Doctrine" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PHPUnit-3776AB?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit" />
+  <img src="https://img.shields.io/badge/PHPStan-4A4A55?style=for-the-badge&logo=php&logoColor=white" alt="PHPStan" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+</div>
+
+## 🚀 Ingénierie & Projets Phares
+
+### 🌐 [Portfolio & Back-Office] Custom MVC vers Symfony 7.4
+- Refonte complète via l'intégration du conteneur d'injection de dépendances et de Doctrine ORM.
+- Sécurisation stricte de l'application (Symfony Security, Auth, CSRF, XSS) avec typage fort.
+- *Stack : PHP 8.2+, Symfony 7.4, Twig, Tailwind CSS.*
+
+### 🏪 [KLG-Caisse] Migration Legacy & Refonte Architecturale
+Modernisation d'une application financière critique (Logiciel de caisse - POS).
+- **Défi :** Migration complète d'une base de code PHP procédurale vieillissante vers une architecture MVC stricte sous **Symfony 7**.
+- **Réalisations :**
+  - Isolation des domaines métiers et sécurisation des flux financiers.
+  - Implémentation des principes **SOLID** et réduction massive de la dette technique.
+  - Conception d'APIs RESTful pour l'interopérabilité des services.
+- *Stack : PHP 8, Symfony 7, Doctrine, MySQL, API RESTful.*
+
+## 📈 Compétences Transverses
+- **Leadership Technique :** Expérience avérée en mentorat de développeurs, revues de code exigeantes et arbitrage de solutions.
+- **Qualité de code :** Taux de bugs drastiquement réduit via l'analyse statique et l'audit de code (historique de -50% de bugs en production sur ERP).
 
 ---
-📫 **Me contacter :** [LinkedIn](https://www.linkedin.com/in/ernest-patrick-sewade/)
+
+📫 **Échanger sur une opportunité (CDI) :** [LinkedIn](https://www.linkedin.com/in/ernest-patrick-sewade/)
