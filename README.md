@@ -6,13 +6,13 @@ Fort de **9 ans d'expérience** dans l'écosystème PHP, j'interviens sur la con
 ## 🛠 Stack Technique & Ingénierie
 
 <div align="left">
-  <img src="https://img.shields.io/badge/PHP_8.5-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8+" />
+  <img src="https://img.shields.io/badge/PHP_8.3+-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8+" />
   <img src="https://img.shields.io/badge/Symfony_7+-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
   <img src="https://img.shields.io/badge/API_Platform-38A8E8?style=for-the-badge&logo=v&logoColor=white" alt="API Platform" />
   <br>
   <img src="https://img.shields.io/badge/Doctrine_ORM-F26522?style=for-the-badge&logo=doctrine&logoColor=white" alt="Doctrine" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/PHPUnit-3776AB?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit" />
